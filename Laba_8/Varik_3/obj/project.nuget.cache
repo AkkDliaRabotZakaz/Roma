@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivwHYWDrjOD+5dKSR47ZR9QJeCgjnGwglr/N/rdttMBrJtanRUo1qITkqrpnCAm1NGsOtZyEF6lRM1w4CJo03Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\Desktop\\Новая папка (3)\\Varik_3\\Varik_3\\Varik_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

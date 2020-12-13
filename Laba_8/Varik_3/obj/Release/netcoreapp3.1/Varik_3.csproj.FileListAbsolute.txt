@@ -1,0 +1,13 @@
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.AssemblyInfoInputs.cache
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.AssemblyInfo.cs
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.csproj.CoreCompileInputs.cache
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.exe
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.deps.json
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.runtimeconfig.json
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.runtimeconfig.dev.json
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.dll
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\bin\Release\netcoreapp3.1\Varik_3.pdb
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.csprojAssemblyReference.cache
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.dll
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.pdb
+G:\СКФУ\3 семестр\Технологическое программирование\Лабы\Все лабы из пособия\Laba_7\Varik_3\Varik_3\obj\Release\netcoreapp3.1\Varik_3.genruntimeconfig.cache
